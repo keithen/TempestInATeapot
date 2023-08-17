@@ -1,2 +1,2 @@
 # TempestInATeapot
-Eventually will include the Atari arcade game, Tempest, inside a Teapot. To start only building a game from  teapots.
+Mobile version of Atari arcade game, Tempest, inside OpenGL teapot. To start only building a game from teapots.
