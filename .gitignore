@@ -1,5 +1,8 @@
 # This .gitignore file should be placed at the root of your Unity project directory
 #
+# Special Tempest In A Teapot Raw Materials
+TeapotsRawMaterials
+#
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 [Ll]ibrary/
